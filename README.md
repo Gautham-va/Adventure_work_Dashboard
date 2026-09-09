@@ -103,7 +103,7 @@ Key metrics:
 - Customer-level revenue analysis
 - Top customer by revenue
 
-![Customer Analysis](Screenshots/customer_analysis.png)
+![Customer Analysis](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132839.png?raw=true)
 
 ---
 
