@@ -84,7 +84,7 @@ The page also uses a dynamic metric selector to switch between:
 - Revenue
 - Return Rate
 
-![Product Analysis](Screenshots/product_analysis.png)
+![Product Analysis](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132824.png?raw=true)
 
 ---
 
