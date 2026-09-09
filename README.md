@@ -55,7 +55,8 @@ Features include:
 - Pacific
 - Interactive map visualization
 
-![Regional Analysis](Screenshots/regional_analysis.png)
+![Regional Analysis]([Screenshots/regional_analysis.png](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132810.png?raw=true))
+
 
 ---
 
