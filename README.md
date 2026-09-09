@@ -37,7 +37,7 @@ Key components:
 - Most ordered product type
 - Most returned product type
 
-![Sales Overview](Screenshots/overview.png)
+![Sales Overview](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132636.png?raw=true)
 
 ---
 
