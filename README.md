@@ -122,7 +122,7 @@ The tooltip displays contextual metrics such as:
 
 This allows users to inspect additional information without leaving the main dashboard.
 
-![Custom Tooltip](Screenshots/tooltip.png)
+![Custom Tooltip](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132859.png?raw=true)
 
 ## Key Power BI Features Used
 
@@ -176,16 +176,16 @@ The dashboard transforms transactional sales data into an interactive analytical
 ## Screenshots
 
 ### Sales Overview
-![Overview](Screenshots/overview.png)
+![Overview]([Screenshots/overview.png](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132636.png?raw=true))
 
 ### Regional Analysis
-![Regional Analysis](Screenshots/regional_analysis.png)
+![Regional Analysis]([Screenshots/regional_analysis.png](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132810.png?raw=true))
 
 ### Product Analysis
-![Product Analysis](Screenshots/product_analysis.png)
+![Product Analysis]([Screenshots/product_analysis.png](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132824.png?raw=true))
 
 ### Customer Analysis
-![Customer Analysis](Screenshots/customer_analysis.png)
+![Customer Analysis]([Screenshots/customer_analysis.png](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132839.png?raw=true))
 
 ### Custom Tooltip
-![Tooltip](Screenshots/tooltip.png)
+![Tooltip]([Screenshots/tooltip.png](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132859.png?raw=true))
