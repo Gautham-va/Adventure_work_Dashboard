@@ -176,16 +176,16 @@ The dashboard transforms transactional sales data into an interactive analytical
 ## Screenshots
 
 ### Sales Overview
-![Overview]((https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132636.png?raw=true))
+![Overview](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132636.png?raw=true)
 
 ### Regional Analysis
-![Regional Analysis]((https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132810.png?raw=true))
+![Regional Analysis](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132810.png?raw=true)
 
 ### Product Analysis
-![Product Analysis]((https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132824.png?raw=true))
+![Product Analysis](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132824.png?raw=true)
 
 ### Customer Analysis
-![Customer Analysis]((https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132839.png?raw=true))
+![Customer Analysis](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132839.png?raw=true)
 
 ### Custom Tooltip
-![Tooltip]((https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132859.png?raw=true))
+![Tooltip](https://github.com/Gautham-va/Adventure_work_Dashboard/blob/main/Screenshot%202026-09-09%20132859.png?raw=true)
